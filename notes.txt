@@ -1,1 +1,1 @@
-conflict practicing - from feature/conflict-test branch
+conflict practicing - from feature/conflict-test2 branch
